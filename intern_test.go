@@ -5,8 +5,8 @@ import (
 	"io"
 	"testing"
 
+	"github.com/pierre-borckmans/msgpack/v5uint"
 	"github.com/stretchr/testify/require"
-	"github.com/vmihailenco/msgpack/v5"
 )
 
 type NoIntern struct {
