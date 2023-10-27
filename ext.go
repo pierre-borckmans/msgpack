@@ -5,7 +5,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/pierre-borckmans/msgpack/v5uint/msgpcode"
+	"github.com/pierre-borckmans/msgpack/msgpcode"
 )
 
 type extInfo struct {

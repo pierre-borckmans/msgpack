@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pierre-borckmans/msgpack/v5uint"
-	"github.com/pierre-borckmans/msgpack/v5uint/msgpcode"
+	"github.com/pierre-borckmans/msgpack"
+	"github.com/pierre-borckmans/msgpack/msgpcode"
 	"github.com/stretchr/testify/require"
 )
 

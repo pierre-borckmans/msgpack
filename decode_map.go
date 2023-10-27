@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/pierre-borckmans/msgpack/v5uint/msgpcode"
+	"github.com/pierre-borckmans/msgpack/msgpcode"
 )
 
 var errArrayStruct = errors.New("msgpack: number of fields in array-encoded struct has changed")

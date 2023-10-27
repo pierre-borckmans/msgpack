@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/pierre-borckmans/msgpack/v5uint/msgpcode"
+	"github.com/pierre-borckmans/msgpack/msgpcode"
 )
 
 var sliceStringPtrType = reflect.TypeOf((*[]string)(nil))

@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pierre-borckmans/msgpack/v5uint/msgpcode"
+	"github.com/pierre-borckmans/msgpack/msgpcode"
 )
 
 const (

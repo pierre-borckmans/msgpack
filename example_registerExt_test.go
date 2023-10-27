@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/pierre-borckmans/msgpack/v5uint"
+	"github.com/pierre-borckmans/msgpack"
 )
 
 // https://github.com/fluent/fluentd/wiki/Forward-Protocol-Specification-v1#eventtime-ext-format
